@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
+![image alt](https://github.com/OKOYO-RODRICKS/OKOYO-RODRICKS/blob/main/Screenshot%202025-03-27%20at%2011-33-32%20Master%20Timetable.png?raw=true)
 OKOYO-RODRICKS/OKOYO-RODRICKS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
